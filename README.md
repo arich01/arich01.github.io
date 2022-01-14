@@ -1,12 +1,8 @@
 ## About 
-I recently graduated UC Berkeley with honors degrees in EECS and Applied
-Mathematics. I am interested in Bayesian machine learning, probabilistic
-programming, and their applications to natural language processing. Currently,
-I am a visiting undergraduate researcher at
-[MIT Probabilistic Computing Project](https://probcomp.csail.mit.edu). Here,
-you can find my [CV](cv.pdf), [transcript](transcript.pdf), and [LinkedIn
-Profile](https://www.linkedin.com/in/mghavami/). You can contact me at
-[mghavami@berkeley.edu](mailto:mghavami@berkeley.edu)
+I am currently a student at UC Berkeley studying
+Mathematics.
+
+I am interested in topology, analysis, and differential geometry.
 
 ## Papers
 - G. Matheos, A. K. Lew, **M. Ghavamizadeh**, S. J. Russell,
