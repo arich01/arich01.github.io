@@ -1,8 +1,5 @@
-## About 
-I am currently a student at UC Berkeley studying
-Mathematics.
-
-I am interested in topology, analysis, and differential geometry.
+## About
+I am currently a student at UC Berkeley studying Mathematics. I am interested in topology, analysis, and differential geometry. You can find my resume [here]](Resume.pdf). 
 
 ## Papers
 - G. Matheos, A. K. Lew, **M. Ghavamizadeh**, S. J. Russell,
