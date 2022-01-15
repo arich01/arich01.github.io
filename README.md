@@ -35,8 +35,5 @@ October 10-11, 2018](https://atd2018.soe.ucsc.edu/home) ([pdf](atd-poster.pdf))
 - Ranked in the top 0.05% in Iran’s National University Entrance Exam (2015).
 
 ## Notes and Writings
-- [Probability for Applications (UC Berkeley Stat 204, Fall
-  2019)](204-notes.pdf) (incomplete)
-- [Satz-Beweis Undergraduate Abstract Algebra](algebra-notes.pdf) (there are a
-  few gaps I need to fill in)
-- [Stirling's Approximation](stirling-approx.pdf)
+- [Topology and Measure Theory Notes (UC Berkeley Math 202A, Fall 2021)](Topology_and_Measure_Theory_Notes_(Math_202A.pdf)
+- [Differential Geometry Notes](Differentiable_Manifolds_Notes.pdf) (incomplete)
