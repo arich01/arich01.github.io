@@ -35,5 +35,5 @@ October 10-11, 2018](https://atd2018.soe.ucsc.edu/home) ([pdf](atd-poster.pdf))
 - Ranked in the top 0.05% in Iran’s National University Entrance Exam (2015).
 
 ## Notes and Writings
-- [Topology and Measure Theory Notes (UC Berkeley Math 202A, Fall 2021)](Topology_and_Measure_Theory_Notes_(Math_202A.pdf)
+- [Topology and Measure Theory Notes (UC Berkeley Math 202A, Fall 2021)](Topology_and_Measure_Theory_Notes.pdf)
 - [Differential Geometry Notes](Differentiable_Manifolds_Notes.pdf) (incomplete)
