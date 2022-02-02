@@ -1,7 +1,7 @@
 ## About
 I am currently a student at UC Berkeley studying Mathematics. I am interested in topology, analysis, and differential geometry. You can find my resume [here](Resume.pdf). 
 
-## Reearch 
+## Research 
 - *Current* Symmetries in the Alexander Polynomials of amphiciral and invertible knots under Dr. Ian Agol
 - **NASA Jet Propulsion Laboratory** *Consortium for Undergraduate Research Experience (Education Office Affiliate)* High Precision Astronomy under Dr. William Owen 
 
