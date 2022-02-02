@@ -18,7 +18,6 @@ I am currently a student at UC Berkeley studying Mathematics. I am interested in
   nationwide.
 - Berkeley Scholarship. $23,000
 - Yopes Scholarship. Mathematics Scholarship at UC Berkeley
-  division II runner-up.
 
 ## Notes and Writings
 - [Topology and Measure Theory Notes (UC Berkeley Math 202A, Fall 2021)](Topology_and_Measure_Theory_Notes.pdf)
