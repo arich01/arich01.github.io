@@ -4,6 +4,7 @@ I am currently a student at UC Berkeley studying Mathematics. I am interested in
 ## Research 
 - *Current* Symmetries in the Alexander Polynomials of amphiciral and invertible knots under Dr. Ian Agol
 - **NASA Jet Propulsion Laboratory** *Consortium for Undergraduate Research Experience (Education Office Affiliate)* High Precision Astronomy under Dr. William Owen 
+- Directed reading with Dr. Peng Zhou in Differential Geometry
 
 ## Teaching (TA)
 - Real Analysis (Euler Circle)
@@ -18,6 +19,24 @@ I am currently a student at UC Berkeley studying Mathematics. I am interested in
   nationwide.
 - Berkeley Scholarship. $23,000
 - Yopes Scholarship. Mathematics Scholarship at UC Berkeley
+
+## Relevent Courses
+*Graduate level*
+- Differentiable Manifolds 
+- Measure Theory and Functional Analysis
+- Topology and Measure Theory 
+- Quantum Mechanics B
+- Quantum Mechanics A
+*Undergraduate*
+- Groups and Geometries
+- Algebraic Topology
+- Combinatorics
+- Real Analysis
+- Complex Analysis
+- Abstract Algebra
+- Linear Algebra
+- Quantum Mechanics 2
+- Quantum Mechanics 1
 
 ## Notes and Writings
 - [Topology and Measure Theory Notes (UC Berkeley Math 202A, Fall 2021)](Topology_and_Measure_Theory_Notes.pdf)
