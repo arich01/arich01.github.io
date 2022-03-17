@@ -23,7 +23,6 @@ I am currently a student at UC Berkeley studying Mathematics. I am interested in
 ## Relevent Courses
 *Graduate level*
 - Differentiable Manifolds 
-- Measure Theory and Functional Analysis
 - Topology and Measure Theory 
 - Quantum Mechanics B
 - Quantum Mechanics A
@@ -42,3 +41,4 @@ I am currently a student at UC Berkeley studying Mathematics. I am interested in
 ## Notes and Writings
 - [Topology and Measure Theory Notes (UC Berkeley Math 202A, Fall 2021)](Topology_and_Measure_Theory_Notes.pdf)
 - [Differential Geometry Notes](Differentiable_Manifolds_Notes.pdf) (skeleton)
+- [Geometry Notes] (Geometry_Notes.pdf) (Currently updating)
